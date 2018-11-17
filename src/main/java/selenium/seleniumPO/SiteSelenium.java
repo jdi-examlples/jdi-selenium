@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import selenium.entities.User;
 
-import static org.openqa.selenium.support.PageFactory.*;
+import static com.epam.jdi.light.elements.init.PageFactory.initElements;
 
 public class SiteSelenium {
     private static WebDriver driver;

@@ -18,8 +18,8 @@
     <dependencies>
         <!--JDI-->
         <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
+            <groupId>com.epam.jdi</groupId>
+            <artifactId>jdi-light</artifactId>
             <version>RELEASE</version>
         </dependency>
 
